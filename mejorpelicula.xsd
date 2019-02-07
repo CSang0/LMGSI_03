@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New XSD document created with EditiX XML Editor (http://www.editix.com) at Tue Feb 05 16:43:09 CET 2019 -->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="mejorpelicula">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="anyo" minOccurs="1" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element  name="Pelicula" minOccurs="5" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="TituloOriginal" type="xs:string"/>
+										<xs:element name="TituloEspanyol" type="xs:string"/>
+										<xs:element name="Director" type="xs:string"/>
+										<xs:element name="Companyia" type="xs:string"/>
+										<xs:element name="Produccion" type="xs:string"/>
+										<xs:element name="Genero" type="xs:string"/>
+										<xs:element name="F_Estreno" type="xs:date"/>
+										<xs:element name="Ganadora" type="xs:string"/>	
+
+									</xs:sequence>
+									<xs:attribute name="nombre" type="xs:string"/>
+								</xs:complexType>
+							</xs:element>			
+						</xs:sequence>
+						<xs:attribute name="anyo" type="xs:nonNegativeInteger"/>
+					</xs:complexType>
+				</xs:element>	
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

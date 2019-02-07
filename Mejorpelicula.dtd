@@ -1,0 +1,21 @@
+<!-- DTD created at Mon Feb 04 21:08:31 CET 2019 with EditiX XML Editor (http://www.editix.com). Please insert an encoding attribute header for converting any DTD  -->
+
+<!ELEMENT mejorpelicula (anyo+)>
+
+<!ELEMENT anyo (Pelicula+)>
+
+<!ATTLIST anyo anyo CDATA #REQUIRED>
+
+
+<!ELEMENT Pelicula (TituloOriginal, TituloEspanyol, Director, Companyia, Produccion, Genero, F_Estreno, Ganadora)>
+<!ATTLIST Pelicula nombre CDATA #REQUIRED>
+
+<!ELEMENT TituloOriginal (#PCDATA)>
+<!ELEMENT TituloEspanyol (#PCDATA)>
+<!ELEMENT Director (#PCDATA)>
+<!ELEMENT Companyia (#PCDATA)>
+<!ELEMENT Produccion (#PCDATA)>
+<!ELEMENT Genero (#PCDATA)>
+<!ELEMENT F_Estreno (#PCDATA)>
+<!ELEMENT Ganadora (#PCDATA)>
+

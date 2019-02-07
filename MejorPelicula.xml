@@ -1,0 +1,2027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE mejorpelicula SYSTEM "Mejorpelicula.dtd">
+
+<mejorpelicula>
+	<anyo anyo="2017">
+		<Pelicula nombre="The Shape of Water">
+			<TituloOriginal>The Shape of Water
+			</TituloOriginal>
+			<TituloEspanyol>La forma del agua
+			</TituloEspanyol>
+			<Director>Guillermo del Toro
+			</Director>
+			<Companyia>Double Dare You Productions, TSG Productions, Fox Searchlight Pictures
+			</Companyia>
+			<Produccion>Guillermo del Toro, J. Miles Dale
+			</Produccion>
+			<Genero>Fantasia / Romance
+			</Genero>
+			<F_Estreno>2017-12-17
+			</F_Estreno>	
+			<Ganadora> Si
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Call Me by Your Name">
+			<TituloOriginal>Call Me by Your Name
+			</TituloOriginal>
+			<TituloEspanyol>Llamame por tu nombre
+			</TituloEspanyol>
+			<Director>Luca Guadagnino
+			</Director>
+			<Companyia>Frensy Film Company, La Cinèfacture, RT Features, Water's End Productions
+			</Companyia>
+			<Produccion>Luca Guadagnino, Emilie Georges, James Ivory, Marco Morabito, Howard Rosenman, Peter Spears, Rodrigo Teixeira
+			</Produccion>
+			<Genero>Drama romantico
+			</Genero>	
+			<F_Estreno>2017-01-22
+			</F_Estreno>	
+			<Ganadora> No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Darkest Hour">
+			<TituloOriginal>Darkest Hour
+			</TituloOriginal>
+			<TituloEspanyol>El instante mas oscuro
+			</TituloEspanyol>
+			<Director>Joe Wright
+			</Director>
+			<Companyia>Perfect World Pictures, Working Title Films
+			</Companyia>
+			<Produccion>Tim Bevan, Lisa Bruce, Eric Fellner, Anthony McCarten, Douglas Urbanski
+			</Produccion>
+			<Genero>Cine biografico/ Cine belico
+			</Genero>	
+			<F_Estreno>2017-09-01
+			</F_Estreno>	
+			<Ganadora> No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Dunkirk">
+			<TituloOriginal>Dunkirk
+			</TituloOriginal>
+			<TituloEspanyol>Dunkerque
+			</TituloEspanyol>
+			<Director>Christopher Nolan
+			</Director>
+			<Companyia>Syncopy Inc.
+			</Companyia>
+			<Produccion>Emma Thomas, Christopher Nolan
+			</Produccion>
+			<Genero>Cine belico
+			</Genero>	
+			<F_Estreno>2017-07-21
+			</F_Estreno>	
+			<Ganadora> No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Get Out">
+			<TituloOriginal>Get Out
+			</TituloOriginal>
+			<TituloEspanyol>Dejame salir
+			</TituloEspanyol>
+			<Director>Jordan Peele
+			</Director>
+			<Companyia>Blumhouse Productions, Monkeypaw Productions, QC Entertainment
+			</Companyia>
+			<Produccion>Sean McKittrick, Jason Blum, Edward H. Hamm Jr., Jordan Peele
+			</Produccion>
+			<Genero>Terror
+			</Genero>	
+			<F_Estreno>2017-01-23
+			</F_Estreno>	
+			<Ganadora> No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Lady Bird">
+			<TituloOriginal>Lady Bird
+			</TituloOriginal>
+			<TituloEspanyol>Lady Bird
+			</TituloEspanyol>
+			<Director>Greta Gerwig
+			</Director>
+			<Companyia>Scott Rudin Productions, Management 360, IAC Films
+			</Companyia>
+			<Produccion>Eli Bush, Evelyn O'Neil, Scott Rudin
+			</Produccion>
+			<Genero>Comedia dramatica
+			</Genero>	
+			<F_Estreno>2017-09-01
+			</F_Estreno>	
+			<Ganadora> No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Phantom Thread">
+			<TituloOriginal>Phantom Thread
+			</TituloOriginal>
+			<TituloEspanyol>El hilo invisible
+			</TituloEspanyol>
+			<Director>Paul Thomas Anderson
+			</Director>
+			<Companyia>Annapurna Pictures, Ghoulardi Film Company, Perfect World Pictures
+			</Companyia>
+			<Produccion>Paul Thomas Anderson, Megan Ellison, JoAnne Sellar, Daniel Lupi
+			</Produccion>
+			<Genero>Romance/ drama
+			</Genero>	
+			<F_Estreno>2017-12-25
+			</F_Estreno>	
+			<Ganadora> No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="The Post">
+			<TituloOriginal>The Post
+			</TituloOriginal>
+			<TituloEspanyol>Los archivos del Pentagono
+			</TituloEspanyol>
+			<Director>Steven Spielberg
+			</Director>
+			<Companyia>Amblin Entertainment, DreamWorks, Amblin Partners, 20th Century Fox, articipant Media 
+Pascal Pictures, Star Thrower Entertainment
+			</Companyia>
+			<Produccion>Steven Spielberg, Kristie Macosko Krieger, Amy Pascal
+			</Produccion>
+			<Genero>Thriller/ Drama/ Cine biografico/ Cine historico
+			</Genero>	
+			<F_Estreno>2017-12-14
+			</F_Estreno>	
+			<Ganadora> No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Three Billboards Outside Ebbing, Missouri">
+			<TituloOriginal>Three Billboards Outside Ebbing, Missouri
+			</TituloOriginal>
+			<TituloEspanyol>Tres anuncios en las afueras
+			</TituloEspanyol>
+			<Director>Martin McDonagh
+			</Director>
+			<Companyia>Film4 Productions, Fox Searchlight Pictures, Blueprint Pictures
+			</Companyia>
+			<Produccion>Graham Broadbent, Martin McDonagh, Peter Czernin
+			</Produccion>
+			<Genero>Drama/ humor negro/ misterio
+			</Genero>	
+			<F_Estreno>2017-11-10
+			</F_Estreno>	
+			<Ganadora> No
+			</Ganadora>		
+		</Pelicula>
+	</anyo>
+	<anyo anyo="2016" >
+		<Pelicula nombre="Moonlight">
+			<TituloOriginal> Moonlight
+			</TituloOriginal>
+			<TituloEspanyol> Luz de Luna
+			</TituloEspanyol>
+			<Director>Barry Jenkins
+			</Director>
+			<Companyia>A24
+Plan B Entertainment
+Pastel Productions
+			</Companyia>
+			<Produccion>Adele Romanski
+Dede Gardner
+Jeremy Kleiner
+			</Produccion>
+			<Genero> Drama
+			</Genero>	
+			<F_Estreno>2016-09-02
+			</F_Estreno>	
+			<Ganadora> Si
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Arrival">
+			<TituloOriginal> Arrival
+			</TituloOriginal>
+			<TituloEspanyol>	La llegada
+			</TituloEspanyol>
+			<Director> Denis Villeneuve
+			</Director>
+			<Companyia>	FilmNation Entertainment
+21 Laps Entertainment
+Lava Bear Films
+			</Companyia>
+			<Produccion>	Dan Levine
+Shawn Levy
+David Linde
+Aaron Ryder
+			</Produccion>
+			<Genero>	Ciencia ficcion
+			</Genero>	
+			<F_Estreno>2016-09-01
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Fences">
+			<TituloOriginal>Fences
+			</TituloOriginal>
+			<TituloEspanyol>Fences
+			</TituloEspanyol>
+			<Director>	
+Denzel Washington
+			</Director>
+			<Companyia>	Macro
+Bron Studios
+Scott Rudin Productions
+			</Companyia>
+			<Produccion>	Todd Black
+Scott Rudin
+Denzel Washington
+			</Produccion>
+			<Genero>Drama
+			</Genero>	
+			<F_Estreno>2016-12-25
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Hacksaw Ridge">
+			<TituloOriginal>Hacksaw Ridge
+			</TituloOriginal>
+			<TituloEspanyol>
+Titulo	Hasta el ultimo hombre 
+			</TituloEspanyol>
+			<Director>	
+Mel Gibson
+			</Director>
+			<Companyia>Cross Creek Pictures
+Pandemonium Films
+Permut Productions
+Vendian Entertainment
+Demarest Media
+Kilburn Media
+			</Companyia>
+			<Produccion>	Paul Currie
+Bruce Davey
+William D. Johnson
+Bill Mechanic
+Brian Oliver
+David Permut
+Terry Benedict
+			</Produccion>
+			<Genero>	Belico
+Biografico
+			</Genero>	
+			<F_Estreno>2016-11-23
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Hell or High Water">
+			<TituloOriginal>Hell or High Water
+			</TituloOriginal>
+			<TituloEspanyol>Comancheria 
+			</TituloEspanyol>
+			<Director>	
+David Mackenzie
+			</Director>
+			<Companyia>	Sidney Kimmel Entertainment
+OddLot Entertainment
+Film 44
+LBI Entertainment
+			</Companyia>
+			<Produccion>	Sidney Kimmel
+Peter Berg
+Carla Hacken
+Julie Yorn
+Gigi Pritzker
+Rachel Shane
+Braden Aftergood
+			</Produccion>
+			<Genero>	Policial
+Thriller
+			</Genero>	
+			<F_Estreno>2016-08-12
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Hidden Figures">
+			<TituloOriginal>Hidden Figures
+			</TituloOriginal>
+			<TituloEspanyol>	Figuras ocultas
+			</TituloEspanyol>
+			<Director>	
+Theodore Melfi
+			</Director>
+			<Companyia>	
+20th Century Fox
+Chernin Entertainment
+Donna Gigliotti
+TSG Entertainment
+			</Companyia>
+			<Produccion>	
+Donna Gigliotti
+Peter Chernin
+Jenno Topping
+Pharrell Williams
+Theodore Melfi
+			</Produccion>
+			<Genero>	Biografica, drama
+			</Genero>	
+			<F_Estreno>2016-12-25
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="La La Land">
+			<TituloOriginal>La La Land
+			</TituloOriginal>
+			<TituloEspanyol>	La Ciudad De Las Estrellas: La La Land 
+			</TituloEspanyol>
+			<Director>	
+Damien Chazelle
+			</Director>
+			<Companyia>	Summit Entertainment
+Black Label Media
+TIK Films
+Impostor Pictures
+Gilbert Films
+Marc Platt Productions
+			</Companyia>
+			<Produccion>	Fred Berger
+Gary Gilbert
+Jordan Horowitz
+Marc Platt
+			</Produccion>
+			<Genero>	Musical
+Romance
+Drama
+			</Genero>	
+			<F_Estreno>2016-08-31
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Lion">
+			<TituloOriginal>Lion
+			</TituloOriginal>
+			<TituloEspanyol>Lion
+			</TituloEspanyol>
+			<Director>	
+Garth Davis
+			</Director>
+			<Companyia>	
+See-Saw Films
+Aquarius Films
+Screen Australia
+Sunstar Entertainment
+The Weinstein Company
+			</Companyia>
+			<Produccion>	
+Iain Canning
+Angie Fielder
+Emile Sherman
+			</Produccion>
+			<Genero>	Drama
+			</Genero>	
+			<F_Estreno>2016-09-10
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Manchester by the Sea">
+			<TituloOriginal>Manchester by the Sea
+			</TituloOriginal>
+			<TituloEspanyol>Manchester frente al mar 
+			</TituloEspanyol>
+			<Director>	
+Kenneth Lonergan
+			</Director>
+			<Companyia>	B Story
+CMP
+K Period Media
+Pearl Street Films
+The A / Middleton Project
+			</Companyia>
+			<Produccion>	Lauren Beck
+Matt Damon
+Chris Moore
+Kimberly Steward
+Kevin J. Walsh
+			</Produccion>
+			<Genero>	Drama
+			</Genero>	
+			<F_Estreno>2016-01-23
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+	</anyo>
+	<anyo anyo="2015">
+		<Pelicula nombre="Spotlight">
+			<TituloOriginal>Spotlight
+			</TituloOriginal>
+			<TituloEspanyol>En primera plana
+			</TituloEspanyol>
+			<Director>Tom McCarthy
+			</Director>
+			<Companyia>Anonymous Content
+Participant Media
+First Look Media
+Rocklin/Faust
+			</Companyia>
+			<Produccion>Steve Golin
+Michael Sugar
+Nicole Rocklin
+Blye Pagon Faust
+			</Produccion>
+			<Genero>Biografia / Drama
+			</Genero>	
+			<F_Estreno>2015-11-06
+			</F_Estreno>	
+			<Ganadora>Si
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="The Big Short">
+			<TituloOriginal>The Big Short
+
+			</TituloOriginal>
+			<TituloEspanyol>La gran apuesta
+			</TituloEspanyol>
+			<Director>	
+Adam McKay
+			</Director>
+			<Companyia>	
+Plan B Entertainment
+Regency Enterprises
+			</Companyia>
+			<Produccion>Dede Gardner
+Brad Pitt
+Arnon Milchan
+Jeremy Kleiner
+			</Produccion>
+			<Genero>	Cine biografico, drama, cine policiaco, comedia dramatica y pelicula basada en una obra literaria
+			</Genero>	
+			<F_Estreno>2015-11-12
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Bridge of Spies">
+			<TituloOriginal>Bridge of Spies
+			</TituloOriginal>
+			<TituloEspanyol>El puente de los espias
+			</TituloEspanyol>
+			<Director>	
+Steven Spielberg
+			</Director>
+			<Companyia>	DreamWorks Pictures
+Fox 2000 Pictures
+Reliance Entertainment
+Participant Media
+TSG Entertainment
+Afterworks Limited
+Studio Babelsberg
+Amblin Entertainment
+Marc Platt Productions
+			</Companyia>
+			<Produccion>Steven Spielberg
+Marc Platt
+Kristie Macosko Krieger
+			</Produccion>
+			<Genero>Drama historico
+Thriller
+			</Genero>
+			<F_Estreno>2015-10-04
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Brooklyn">
+			<TituloOriginal>Brooklyn
+			</TituloOriginal>
+			<TituloEspanyol>Brooklyn
+			</TituloEspanyol>
+			<Director>John Crowley
+			</Director>
+			<Companyia>	Wildgaze
+Paralelo Film Productions
+Irish Film Board
+item 7
+			</Companyia>
+			<Produccion>	Finola Dwyer 
+Amanda Posey
+			</Produccion>
+			<Genero>Romance
+Comedia
+			</Genero>	
+			<F_Estreno>2015-01-26
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Mad Max: Fury Road">
+			<TituloOriginal>Mad Max: Fury Road
+			</TituloOriginal>
+			<TituloEspanyol>Mad Max: Furia en la carretera
+			</TituloEspanyol>
+			<Director>	
+George Miller
+			</Director>
+			<Companyia>	Kennedy Miller Mitchell
+Village Roadshow Pictures
+			</Companyia>
+			<Produccion>	Doug Mitchell
+George Miller
+P.J. Voeten
+			</Produccion>
+			<Genero>	Accion
+Aventura
+Posapocaliptico
+			</Genero>	
+			<F_Estreno>2015-05-14
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="The Martian
+">
+			<TituloOriginal>The Martian
+			</TituloOriginal>
+			<TituloEspanyol>Marte 
+			</TituloEspanyol>
+			<Director>	
+Ridley Scott
+			</Director>
+			<Companyia>	
+Scott Free Productions
+TSG Entertainment
+20th Century Fox
+			</Companyia>
+			<Produccion>	
+Simon Kinberg
+Drew Goddard
+Mark Huffam
+Michael Schaefer
+Ridley Scott
+			</Produccion>
+			<Genero>Ciencia ficcion, cine de supervivencia, aventuras, drama, pelicula basada en una obra literaria y accion
+			</Genero>	
+			<F_Estreno>2015-10-02
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="The Revenant">
+			<TituloOriginal>The Revenant
+			</TituloOriginal>
+			<TituloEspanyol>El Renacido
+			</TituloEspanyol>
+			<Director>Alejandro Gonzalez Iñarritu
+			</Director>
+			<Companyia>Regency Enterprises
+RatPac Entertainment
+New Regency Pictures
+Anonymous Content
+M Productions
+Appian Way
+Alpha Pictures
+			</Companyia>
+			<Produccion>Steve Golin
+Alejandro Gonzalez Iñarritu
+Arnon Milchan
+Mary Parent
+Keith Redmon
+James W. Skotchdopole
+			</Produccion>
+			<Genero>Drama/ Accion
+			</Genero>	
+			<F_Estreno>2015-12-25
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		
+<Pelicula nombre="Room">
+			<TituloOriginal>Room
+			</TituloOriginal>
+			<TituloEspanyol>	La habitacion
+			</TituloEspanyol>
+			<Director>	
+Lenny Abrahamson
+			</Director>
+			<Companyia>Telefilm Canada
+Filmnation Entertainment
+Bord Scannan na heireann/Irish Film Board
+Film4
+Element Pictures
+No Trace Camping
+			</Companyia>
+			<Produccion>	Ed Guiney
+David Gross
+			</Produccion>
+			<Genero>Drama
+			</Genero>	
+			<F_Estreno>2015-10-16
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+	</anyo>
+	<anyo anyo="2014" >
+		<Pelicula nombre="Birdman or (The Unexpected Virtue of Ignorance)">
+			<TituloOriginal>Birdman or (The Unexpected Virtue of Ignorance)
+			</TituloOriginal>
+			<TituloEspanyol>Birdman o (La inesperada virtud de la ignorancia)
+			</TituloEspanyol>
+			<Director>Alejandro Gonzalez Iñarritu
+			</Director>
+			<Companyia>Fox Searchlight
+Regency Enterprises
+			</Companyia>
+			<Produccion>Alejandro Gonzalez Iñarritu
+John Lesher
+James W. Skotchdopole
+			</Produccion>
+			<Genero>Comedia dramatica
+			</Genero>	
+			<F_Estreno>2014-08-27
+			</F_Estreno>	
+			<Ganadora>Si
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="American Sniper">
+			<TituloOriginal>American Sniper
+			</TituloOriginal>
+			<TituloEspanyol>	El francotirador
+			</TituloEspanyol>
+			<Director>Clint Eastwood
+			</Director>
+			<Companyia>Village Roadshow Pictures Mad Chance Productions 22nd and Indiana Pictures
+Malpaso Productions
+			</Companyia>
+			<Produccion>Clint Eastwood, Robert Lorenz ,Andrew Lazar ,Bradley Cooper ,Peter Morgan ,Zakaria Alaoui ,Bruce Berman ,Jason Hall ,Sheroum Kim ,Chris Kyle ,Jessica Meier ,Steven Mnuchin ,Tim Moore ,Kristina Rivera
+			</Produccion>
+			<Genero>Biografica,Drama
+			</Genero>	
+			<F_Estreno>2014-11-11
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Boyhood">
+			<TituloOriginal>Boyhood
+			</TituloOriginal>
+			<TituloEspanyol>Boyhood (Momentos de una vida)
+			</TituloEspanyol>
+			<Director>Richard Linklater
+			</Director>
+			<Companyia>IFC Films
+			</Companyia>
+			<Produccion>Richard Linklater
+Cathleen Sutherland
+Jonathan Sehring
+John Sloss
+			</Produccion>
+			<Genero>	Drama
+Coming-of-age
+			</Genero>	
+			<F_Estreno>2014-07-11
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="The Grand Budapest Hotel">
+			<TituloOriginal>The Grand Budapest Hotel
+			</TituloOriginal>
+			<TituloEspanyol>El Gran Hotel Budapest
+			</TituloEspanyol>
+			<Director>Wes Anderson
+			</Director>
+			<Companyia>	Fox Searchlight Pictures
+Indian Paintbrush
+Studio Babelsberg
+American Empirical Pictures
+			</Companyia>
+			<Produccion>Wes Anderson
+Jeremy Dawson
+Steven Rales
+Scott Rudin
+			</Produccion>
+			<Genero>Comedia
+Drama
+			</Genero>	
+			<F_Estreno>2014-03-07
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="The Imitation Game">
+			<TituloOriginal>The Imitation Game
+			</TituloOriginal>
+			<TituloEspanyol>	Descifrando Enigma
+			</TituloEspanyol>
+			<Director>Morten Tyldum
+			</Director>
+			<Companyia>Black Bear Pictures?
+Bristol Automotive
+			</Companyia>
+			<Produccion>	Nora Grossman
+Ido Ostrowsky
+Teddy Schwarzman
+			</Produccion>
+			<Genero>	Biopic
+Drama
+Thriller
+Belica
+			</Genero>	
+			<F_Estreno>2014-08-29
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Selma">
+			<TituloOriginal>Selma
+			</TituloOriginal>
+			<TituloEspanyol>Selma
+			</TituloEspanyol>
+			<Director>Ava DuVernay
+			</Director>
+			<Companyia>Cloud Eight Films
+Celador Films
+Harpo Films
+Pathe
+Plan B Entertainment
+			</Companyia>
+			<Produccion>Dede Gardner
+Jeremy Kleiner
+Christian Colson
+Oprah Winfrey
+			</Produccion>
+			<Genero>	Drama
+Historica
+			</Genero>	
+			<F_Estreno>2014-11-11
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="The Theory Of Everything
+">
+			<TituloOriginal>The Theory Of Everything
+
+			</TituloOriginal>
+			<TituloEspanyol>La teoria del todo
+
+			</TituloEspanyol>
+			<Director>James Marsh
+			</Director>
+			<Companyia>Working Title Films
+			</Companyia>
+			<Produccion>Tim Bevan
+Eric Fellner
+Lisa Bruce
+Anthony McCarten
+			</Produccion>
+			<Genero>	Pelicula biografica 
+Drama
+Romance
+			</Genero>	
+			<F_Estreno>2014-11-07
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Whiplash
+">
+			<TituloOriginal>Whiplash
+			</TituloOriginal>
+			<TituloEspanyol>Whiplash
+			</TituloEspanyol>
+			<Director>	
+Damien Chazelle
+			</Director>
+			<Companyia>	Blumhouse Productions
+Bold Films
+Right of Way Films
+			</Companyia>
+			<Produccion>	David Lancaster
+Michel Litvak
+Jason Blum
+			</Produccion>
+			<Genero>Drama
+Musica
+			</Genero>	
+			<F_Estreno>2014-10-07
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+	</anyo>
+	<anyo anyo="2013" >
+		<Pelicula nombre="12 Years a Slave">
+			<TituloOriginal>12 Years a Slave
+			</TituloOriginal>
+			<TituloEspanyol>12 años de esclavitud
+			</TituloEspanyol>
+			<Director>Steve McQueen
+			</Director>
+			<Companyia>Regency Enterprises
+Film4River
+Road Entertainment
+Plan B Entertainment
+			</Companyia>
+			<Produccion>Brad Pitt
+Dede Gardner
+Jeremy Kleiner
+Steve McQueen
+Anthony Katagas
+			</Produccion>
+			<Genero>Biografia / Drama
+			</Genero>	
+			<F_Estreno>2013-08-30
+			</F_Estreno>	
+			<Ganadora>Si
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="American Hustle">
+			<TituloOriginal>American Hustle
+			</TituloOriginal>
+			<TituloEspanyol>La gran estafa americana
+			</TituloEspanyol>
+			<Director>
+			</Director>
+			<Companyia>	Atlas Entertainment
+Annapurna Pictures
+			</Companyia>
+			<Produccion>Charles Roven
+Richard Suckle
+Megan Ellison
+			</Produccion>
+			<Genero>Comedia dramatica
+			</Genero>	
+			<F_Estreno>2013-12-13
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Captain Phillips">
+			<TituloOriginal>Captain Phillips
+			</TituloOriginal>
+			<TituloEspanyol>Captain Phillips
+			</TituloEspanyol>
+			<Director>Paul Greengrass
+			</Director>
+			<Companyia>	Michael De Luca Productions
+Scott Rudin Productions
+Trigger Street Productions
+			</Companyia>
+			<Produccion>	Michael De Luca
+Dana Brunetti
+Scott Rudin
+			</Produccion>
+			<Genero>	Drama
+Biografica
+			</Genero>	
+			<F_Estreno>2013-09-27
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Dallas Buyers Club">
+			<TituloOriginal>Dallas Buyers Club
+			</TituloOriginal>
+			<TituloEspanyol>Dallas Buyers Club
+			</TituloEspanyol>
+			<Director>Jean-Marc Vallee
+			</Director>
+			<Companyia>Voltage Pictures
+			</Companyia>
+			<Produccion>Robbie Brenner
+			</Produccion>
+			<Genero>Drama, cine biografico y cine LGBT
+			</Genero>	
+			<F_Estreno>2013-09-07
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Gravity">
+			<TituloOriginal>Gravity
+			</TituloOriginal>
+			<TituloEspanyol>Gravity
+			</TituloEspanyol>
+			<Director>	
+Alfonso Cuaron
+			</Director>
+			<Companyia>Esperanto Filmoj
+Heyday Films
+			</Companyia>
+			<Produccion>David Heyman
+Alfonso Cuaron
+			</Produccion>
+			<Genero>Ciencia ficcion
+Suspense
+			</Genero>	
+			<F_Estreno>2013-10-04
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Her">
+			<TituloOriginal>Her
+			</TituloOriginal>
+			<TituloEspanyol>Her
+			</TituloEspanyol>
+			<Director>	
+Spike Jonze
+			</Director>
+			<Companyia>Annapurna Pictures
+			</Companyia>
+			<Produccion>	Megan Ellison
+Spike Jonze
+Vincent Landay
+			</Produccion>
+			<Genero>	Romance
+Comedia dramatica
+			</Genero>	
+			<F_Estreno>2013-10-13
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Nebraska">
+			<TituloOriginal>Nebraska
+			</TituloOriginal>
+			<TituloEspanyol>Nebraska
+			</TituloEspanyol>
+			<Director>Alexander Payne
+			</Director>
+			<Companyia>	Paramount Pictures
+			</Companyia>
+			<Produccion>	Albert Berger
+Ron Yerxa
+			</Produccion>
+			<Genero>Comedia
+Drama
+Aventura
+			</Genero>	
+			<F_Estreno>2013-11-15
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Philomena">
+			<TituloOriginal>Philomena
+			</TituloOriginal>
+			<TituloEspanyol>Philomena
+			</TituloEspanyol>
+			<Director>	
+Stephen Frears
+			</Director>
+			<Companyia>	
+Pathe
+			</Companyia>
+			<Produccion>Steve Coogan
+Gabrielle Tana
+Tracey Seaward
+			</Produccion>
+			<Genero>Drama y cine LGBT
+			</Genero>	
+			<F_Estreno>2013-03-06
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="The Wolf of Wall Street">
+			<TituloOriginal>The Wolf of Wall Street
+			</TituloOriginal>
+			<TituloEspanyol>El lobo de Wall Street
+			</TituloEspanyol>
+			<Director>Martin Scorsese
+			</Director>
+			<Companyia>Paramount Pictures
+			</Companyia>
+			<Produccion>Riza Aziz 
+Joey McFarland 
+Leonardo DiCaprio
+Jon Favreau
+Martin Scorsese 
+Emma Koskoff
+			</Produccion>
+			<Genero>Comedia negra
+Biografica
+			</Genero>	
+			<F_Estreno>2013-12-25
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+	</anyo>
+	<anyo anyo="2012">
+		<Pelicula nombre="Argo">
+			<TituloOriginal>Argo
+			</TituloOriginal>
+			<TituloEspanyol>Argo
+			</TituloEspanyol>
+			<Director>Ben Affleck
+			</Director>
+			<Companyia>Warner Bros.
+GK Films
+			</Companyia>
+			<Produccion>Grant Heslov
+Ben Affleck 
+George Clooney
+			</Produccion>
+			<Genero>Drama / Suspense
+			</Genero>	
+			<F_Estreno>2012-10-12
+			</F_Estreno>	
+			<Ganadora>Si
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Zero Dark Thirty">
+			<TituloOriginal>Zero Dark Thirty
+			</TituloOriginal>
+			<TituloEspanyol>La noche mas oscura
+			</TituloEspanyol>
+			<Director>Kathryn Bigelow
+			</Director>
+			<Companyia>	Annapurna Pictures
+			</Companyia>
+			<Produccion>Kathryn Bigelow
+Mark Boal
+Megan Ellison
+			</Produccion>
+			<Genero>	Drama
+thriller
+historico
+belico
+			</Genero>	
+			<F_Estreno>2012-12-19
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Amour">
+			<TituloOriginal>Amour
+			</TituloOriginal>
+			<TituloEspanyol>Amor
+			</TituloEspanyol>
+			<Director>Michael Haneke
+			</Director>
+			<Companyia>X-Filme Creative Pool
+Wega Film
+France 3 cinema
+ARD degeto
+Bayerischer Rundfunk
+Westdeutscher Rundfunk
+Canal+
+France televisions
+			</Companyia>
+			<Produccion>Margaret Menegoz
+Michael Katz
+Veit Heiduschka
+Stefan Arndt
+			</Produccion>
+			<Genero>	Drama
+			</Genero>	
+			<F_Estreno>2012-10-28
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Beasts of the Southern Wild">
+			<TituloOriginal>Beasts of the Southern Wild
+			</TituloOriginal>
+			<TituloEspanyol>Bestias del salvaje sur
+			</TituloEspanyol>
+			<Director>Benh Zeitlin
+			</Director>
+			<Companyia>Cinereach
+			</Companyia>
+			<Produccion>Josh Penn
+Dan Janvey
+Michael Gottwald
+			</Produccion>
+			<Genero>	Drama
+Fantasia
+			</Genero>	
+			<F_Estreno>2012-06-27
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Django Unchained">
+			<TituloOriginal>Django Unchained
+			</TituloOriginal>
+			<TituloEspanyol>Django desencadenado
+			</TituloEspanyol>
+			<Director>Quentin Tarantino
+			</Director>
+			<Companyia>A Band Apart
+			</Companyia>
+			<Produccion>Reginald Hudlin
+Stacy Sher
+Pilar Savone 
+Brad Pitt
+			</Produccion>
+			<Genero>Western dramatico y accion
+			</Genero>
+			<F_Estreno>2012-12-25
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Les Miserables
+">
+			<TituloOriginal>Les Miserables
+
+			</TituloOriginal>
+			<TituloEspanyol>Los miserables
+
+			</TituloEspanyol>
+			<Director>	
+Tom Hooper
+			</Director>
+			<Companyia>	Working Title Films
+			</Companyia>
+			<Produccion>	Tim Bevan
+Eric Fellner
+Debra Hayward
+Cameron Mackintosh
+			</Produccion>
+			<Genero>	musical, drama, romance
+			</Genero>	
+			<F_Estreno>2012-12-05
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Life of Pi">
+			<TituloOriginal>Life of Pi
+			</TituloOriginal>
+			<TituloEspanyol>La vida de Pi 
+			</TituloEspanyol>
+			<Director>	
+Ang Lee
+			</Director>
+			<Companyia>	Rhythm and Hues
+Fox 2000 Pictures
+			</Companyia>
+			<Produccion>	Ang Lee
+Gil Netter
+David Womark
+
+			</Produccion>
+			<Genero>	drama, aventura
+			</Genero>	
+			<F_Estreno>2012-11-21
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Lincoln
+">
+			<TituloOriginal>Lincoln
+			</TituloOriginal>
+			<TituloEspanyol>Lincoln
+			</TituloEspanyol>
+			<Director>	
+Steven Spielberg
+			</Director>
+			<Companyia>Reliance Entertainment
+			</Companyia>
+			<Produccion>	Kathleen Kennedy
+Steven Spielberg
+			</Produccion>
+			<Genero>	Drama historico
+			</Genero>	
+			<F_Estreno>2012-10-08
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Silver Linings Playbook">
+			<TituloOriginal>Silver Linings Playbook
+			</TituloOriginal>
+			<TituloEspanyol>	El lado bueno de las cosas
+			</TituloEspanyol>
+			<Director>David O. Russell
+			</Director>
+			<Companyia>	The Weinstein Company
+Mirage Enterprises
+			</Companyia>
+			<Produccion>Bruce Cohen
+Donna Gigliotti
+Jonathan Gordon
+George Parra
+			</Produccion>
+			<Genero>	Comedia Romantica, Drama
+			</Genero>	
+			<F_Estreno>2012-11-18
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+	</anyo>
+	<anyo anyo="2011" >
+		<Pelicula nombre="The Artist">
+			<TituloOriginal>The Artist
+			</TituloOriginal>
+			<TituloEspanyol>El artista
+			</TituloEspanyol>
+			<Director>Michel Hazanavicius
+			</Director>
+			<Companyia>La Petite Reine
+ARP Selection
+			</Companyia>
+			<Produccion>Thomas Langmann
+			</Produccion>
+			<Genero>Comedia romantica / Cine mudo
+			</Genero>	
+			<F_Estreno>2011-05-15
+			</F_Estreno>	
+			<Ganadora>Si
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="The Descendants">
+			<TituloOriginal>The Descendants
+			</TituloOriginal>
+			<TituloEspanyol>Descendientes
+			</TituloEspanyol>
+			<Director>Alexander Payne
+			</Director>
+			<Companyia>	Alexander Payne
+Jim Taylor
+Jim Burke
+			</Companyia>
+			<Produccion>Ad Hominem Enterprises
+			</Produccion>
+			<Genero>	Drama
+Comedia
+			</Genero>	
+			<F_Estreno>2011-09-10
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Extremely Loud and Incredibly Close">
+			<TituloOriginal>Extremely Loud and Incredibly Close
+			</TituloOriginal>
+			<TituloEspanyol>	Tan fuerte, tan cerca
+			</TituloEspanyol>
+			<Director>Stephen Daldry
+			</Director>
+			<Companyia>	Scott Rudin Productions
+			</Companyia>
+			<Produccion>Scott Rudin
+			</Produccion>
+			<Genero>	Drama
+			</Genero>	
+			<F_Estreno>2011-12-25
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="The Help">
+			<TituloOriginal>The Help
+			</TituloOriginal>
+			<TituloEspanyol>	Criadas y señoras
+			</TituloEspanyol>
+			<Director>	
+Tate Taylor
+			</Director>
+			<Companyia>1492 Pictures
+DreamWorks
+Touchstone Pictures
+Reliance Entertainment
+Participant Media
+			</Companyia>
+			<Produccion>Chris Columbus
+Brunson Green
+Sonya Lunsford
+Michael Barnathan
+			</Produccion>
+			<Genero>	Drama
+Historica
+			</Genero>	
+			<F_Estreno>2011-08-10
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Hugo">
+			<TituloOriginal>Hugo
+			</TituloOriginal>
+			<TituloEspanyol>Hugo
+			</TituloEspanyol>
+			<Director>	
+Martin Scorsese
+			</Director>
+			<Companyia>	GK Films 
+Infinitum Nihil
+			</Companyia>
+			<Produccion>Martin Scorsese
+Johnny Depp
+Graham King
+Timothy Headington
+			</Produccion>
+			<Genero>Drama, aventuras, fantasia y pelicula basada en una obra literaria
+			</Genero>	
+			<F_Estreno>2011-11-23
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Midnight in Paris">
+			<TituloOriginal>Midnight in Paris
+			</TituloOriginal>
+			<TituloEspanyol>Medianoche en Paris
+			</TituloEspanyol>
+			<Director>Woody Allen
+			</Director>
+			<Companyia>	Gravier Productions
+Mediapro
+Televisio de Catalunya (TV3)
+Versatil Cinema
+			</Companyia>
+			<Produccion>Letty Aronson 
+Stephen Tenenbaum
+Jaume Roures
+			</Produccion>
+			<Genero>	Comedia
+Romance
+			</Genero>	
+			<F_Estreno>2011-05-13
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Moneyball">
+			<TituloOriginal>Moneyball
+			</TituloOriginal>
+			<TituloEspanyol>Moneyball: rompiendo las reglas
+			</TituloEspanyol>
+			<Director>	
+Bennett Miller
+			</Director>
+			<Companyia>	
+Scott Rudin Productions
+Michael De Luca Productions
+Columbia Pictures
+			</Companyia>
+			<Produccion>Michael De Luca
+Rachael Horovitz
+Scotto Rudin
+			</Produccion>
+			<Genero>	Cine biografico, cine deportivo y drama
+			</Genero>	
+			<F_Estreno>2011-09-23
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="The Tree of Life
+">
+			<TituloOriginal>The Tree of Life
+
+			</TituloOriginal>
+			<TituloEspanyol>El arbol de la vida
+
+			</TituloEspanyol>
+			<Director>Terrence Malick
+			</Director>
+			<Companyia>	River Road Entertainment
+Plan B Entertainment
+			</Companyia>
+			<Produccion>	Dede Gardner
+Sarah Green
+Grant Hill
+Brad Pitt
+Bill Pohlad
+			</Produccion>
+			<Genero>Drama
+			</Genero>	
+			<F_Estreno>2011-05-27
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="War Horse
+">
+			<TituloOriginal>War Horse
+
+			</TituloOriginal>
+			<TituloEspanyol>Caballo de Batalla
+			</TituloEspanyol>
+			<Director>Steven Spielberg
+			</Director>
+			<Companyia>	Touchstone Pictures
+DreamWorks Pictures
+Reliance Entertainment
+Amblin Entertainment
+The Kennedy/Marshall Company
+			</Companyia>
+			<Produccion>Steven Spielberg
+Kathleen Kennedy
+			</Produccion>
+			<Genero>Drama
+Belico
+			</Genero>	
+			<F_Estreno>2011-12-25
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+	</anyo>
+	<anyo anyo="2010" >
+	<Pelicula nombre="The King's Speech">
+			<TituloOriginal>The King's Speech
+			</TituloOriginal>
+			<TituloEspanyol>El discurso del rey
+			</TituloEspanyol>
+			<Director>Tom Hooper
+			</Director>
+			<Companyia>The Weinstein Co.
+			</Companyia>
+			<Produccion>Iain Canning
+Emile Sherman 
+Gareth Unwin
+			</Produccion>
+			<Genero>Drama historico	
+			</Genero>	
+			<F_Estreno>2010-09-06
+			</F_Estreno>	
+			<Ganadora>Si
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Black Swan">
+			<TituloOriginal>Black Swan
+			</TituloOriginal>
+			<TituloEspanyol>Cisne negro
+			</TituloEspanyol>
+			<Director>Darren Aronofsky
+			</Director>
+			<Companyia>Fox Searchlight Pictures
+Phoenix Pictures
+			</Companyia>
+			<Produccion>	Scott Franklin
+Mike Medavoy
+Arnold Messer
+Brian Oliver
+			</Produccion>
+			<Genero>	Drama
+Thriller psicologico
+			</Genero>	
+			<F_Estreno>2010-12-05
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="The Fighter">
+			<TituloOriginal>The Fighter
+			</TituloOriginal>
+			<TituloEspanyol>The Fighter
+			</TituloEspanyol>
+			<Director>	
+David O. Russell
+			</Director>
+			<Companyia>	Relativity Media
+Mandeville Films
+Closest to the Hole Productions
+			</Companyia>
+			<Produccion>	Dorothy Aufiero
+David Hoberman
+Todd Lieberman
+Paul Tamasy
+Mark Wahlberg
+Ryan Kavanaugh
+			</Produccion>
+			<Genero>	Drama
+			</Genero>	
+			<F_Estreno>2010-12-10
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Inception">
+			<TituloOriginal>Inception
+			</TituloOriginal>
+			<TituloEspanyol>Origen
+			</TituloEspanyol>
+			<Director>	
+Christopher Nolan
+			</Director>
+			<Companyia>	Legendary Pictures
+Syncopy Films
+Village Roadshow Pictures
+			</Companyia>
+			<Produccion>	Christopher Nolan
+Emma Thomas
+			</Produccion>
+			<Genero>	Drama
+Suspense
+Accion
+Ciencia ficcion
+			</Genero>	
+			<F_Estreno>2010-07-08
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="The Kids Are All Right">
+			<TituloOriginal>The Kids Are All Right
+			</TituloOriginal>
+			<TituloEspanyol>	Los chicos estan bien
+			</TituloEspanyol>
+			<Director>	
+Lisa Cholodenko
+			</Director>
+			<Companyia>Mandalay Vision
+Antidote Films
+Gilbert Films
+			</Companyia>
+			<Produccion>Gary Gilbert
+Jordan Horowitz
+Celine Rattray
+Daniela Taplin
+Lundberg
+Philippe Hellmann
+			</Produccion>
+			<Genero>	Comedia
+Drama
+			</Genero>	
+			<F_Estreno>2010-07-09
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="127 hours">
+			<TituloOriginal>127 hours
+			</TituloOriginal>
+			<TituloEspanyol>127 horas
+			</TituloEspanyol>
+			<Director>	
+Danny Boyle
+			</Director>
+			<Companyia>	
+Fox Searchlight Pictures
+Pathe
+			</Companyia>
+			<Produccion>Christian Colson
+John Smithson
+Danny Boyle
+			</Produccion>
+			<Genero>	Drama, suspense, biografia
+			</Genero>	
+			<F_Estreno>2010-11-05
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="The social network
+">
+			<TituloOriginal>The social network
+
+			</TituloOriginal>
+			<TituloEspanyol>La red social
+
+			</TituloEspanyol>
+			<Director>David Fincher
+			</Director>
+			<Companyia>Michael De Luca Productions
+Scott Rudin Productions
+Trigger Street Productions
+			</Companyia>
+			<Produccion>	Michael De Luca
+Scott Rudin
+Kevin Spacey
+			</Produccion>
+			<Genero>Drama
+			</Genero>	
+			<F_Estreno>2010-10-01
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Winter's Bone">
+			<TituloOriginal>Winter's Bone
+			</TituloOriginal>
+			<TituloEspanyol>	Winter's Bone
+			</TituloEspanyol>
+			<Director>Debra Granik
+			</Director>
+			<Companyia>	Anonymous Content
+Winter's Bone Productions
+			</Companyia>
+			<Produccion>	Anne Rosellini
+Alix Madigan
+			</Produccion>
+			<Genero>	Drama y cine policiaco
+			</Genero>	
+			<F_Estreno>2010-06-13
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Toy Story 3">
+			<TituloOriginal>Toy Story 3
+			</TituloOriginal>
+			<TituloEspanyol>Toy Story 3
+			</TituloEspanyol>
+			<Director>Lee Unkrich
+			</Director>
+			<Companyia>Pixar Animation Studios
+			</Companyia>
+			<Produccion>Darla K. Anderson 
+John Lasseter
+			</Produccion>
+			<Genero>Animacion
+Comedia
+Aventuras
+			</Genero>	
+			<F_Estreno>2010-06-17
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="True Grit">
+			<TituloOriginal>True Grit
+			</TituloOriginal>
+			<TituloEspanyol>	Valor de ley
+			</TituloEspanyol>
+			<Director>Joel Coen
+Ethan Coen
+			</Director>
+			<Companyia>Skydance Productions
+Mike Zoss Productions
+Scott Rudin Productions
+Amblin Entertainment
+			</Companyia>
+			<Produccion>Ethan Coen
+Joel Coen
+Scott Rudin
+			</Produccion>
+			<Genero>	Western
+Drama
+			</Genero>	
+			<F_Estreno>2010-12-22
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+	</anyo>
+	<anyo anyo="2009" >
+	<Pelicula nombre="The Hurt Locker">
+			<TituloOriginal>The Hurt Locker
+			</TituloOriginal>
+			<TituloEspanyol>En tierra hostil
+			</TituloEspanyol>
+			<Director>Kathryn Bigelow
+			</Director>
+			<Companyia>Summit Entertainment
+			</Companyia>
+			<Produccion>Kathryn Bigelow
+Mark Boal
+Nicolas Chartier
+Greg Shapiro
+			</Produccion>
+			<Genero>Accion / Suspense
+			</Genero>	
+			<F_Estreno>2009-06-26
+			</F_Estreno>	
+			<Ganadora>Si
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Avatar">
+			<TituloOriginal>Avatar
+			</TituloOriginal>
+			<TituloEspanyol>Avatar
+			</TituloEspanyol>
+			<Director>	
+James Cameron
+			</Director>
+			<Companyia>20th Century Fox
+			</Companyia>
+			<Produccion>James Cameron
+Jon Landau
+Rae Sanchini
+			</Produccion>
+			<Genero>Ciencia ficcion
+Aventura
+Accion
+Fantastico
+Animacion
+			</Genero>	
+			<F_Estreno>2009-12-18
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="The Blind Side">
+			<TituloOriginal>The Blind Side
+			</TituloOriginal>
+			<TituloEspanyol>Un sueño posible 
+			</TituloEspanyol>
+			<Director>	
+John Lee Hancock
+			</Director>
+			<Companyia>	Alcon Entertainment
+			</Companyia>
+			<Produccion>Andrew Kosove
+Broderick Johnson
+Gill Netter
+			</Produccion>
+			<Genero>Biografico
+Drama
+			</Genero>	
+			<F_Estreno>2009-11-22
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="District 9
+">
+			<TituloOriginal>District 9
+			</TituloOriginal>
+			<TituloEspanyol>	Distrito 9
+			</TituloEspanyol>
+			<Director>Neill Blomkamp
+			</Director>
+			<Companyia>	WingNut Films
+QED International
+Key Creatives
+Wintergreen Productions
+			</Companyia>
+			<Produccion>Peter Jackson
+Carolynne Cunningham
+			</Produccion>
+			<Genero>Ciencia ficcion 
+Drama 
+Accion
+			</Genero>	
+			<F_Estreno>2009-08-16
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="An Education">
+			<TituloOriginal>An Education
+			</TituloOriginal>
+			<TituloEspanyol>An Education
+			</TituloEspanyol>
+			<Director>Lone Scherfig
+			</Director>
+			<Companyia>Sony Pictures Classics
+Budapest Film
+			</Companyia>
+			<Produccion>Finola Dwyer
+Amanda Posey
+Douglas Hansen
+Wendy Japhet
+Jamie Laurenson
+Caroline Levy
+James D. Stern
+David M. Thompson
+			</Produccion>
+			<Genero>	Drama
+			</Genero>	
+			<F_Estreno>2009-01-19
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Inglourious Basterds
+">
+			<TituloOriginal>Inglourious Basterds
+
+			</TituloOriginal>
+			<TituloEspanyol>Malditos bastardos
+			</TituloEspanyol>
+			<Director>	
+Quentin Tarantino
+			</Director>
+			<Companyia>	Universal Pictures (Internacional)
+The Weinstein Company (EE.UU.)
+A Band Apart
+Zehnte Babelsberg
+Visiona Romantica
+			</Companyia>
+			<Produccion>Lawrence Bender
+			</Produccion>
+			<Genero>	Belico, drama, accion
+			</Genero>	
+			<F_Estreno>2009-08-21
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Precious ">
+			<TituloOriginal>Precious 
+			</TituloOriginal>
+			<TituloEspanyol>Precious 
+			</TituloEspanyol>
+			<Director>	
+Lee Daniels
+			</Director>
+			<Companyia>	
+Harpo Productions
+Lee Daniels Entertainment
+			</Companyia>
+			<Produccion>	Lee Daniels 
+Oprah Winfrey (ejec.) 
+Tom Heller (ejec.) 
+Tyler Perry (ejec.) 
+Lisa Cortes 
+Sarah Siegel-Magness 
+Valerie Hoffman 
+Asger Hussain 
+Gary Magness 
+Mark G. Magges 
+Berrgen Swason 
+Simone Sheffield
+			</Produccion>
+			<Genero>Drama
+			</Genero>	
+			<F_Estreno>2009-11-08
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="A Serious Man">
+			<TituloOriginal>A Serious Man
+			</TituloOriginal>
+			<TituloEspanyol>	Un tipo serio
+			</TituloEspanyol>
+			<Director>	
+Joel Coen
+Ethan Coen
+			</Director>
+			<Companyia>	Relativity Media 
+StudioCanal 
+Working Title Films 
+Mike Zoss Productions
+			</Companyia>
+			<Produccion>Ethan Coen
+Joel Coen
+			</Produccion>
+			<Genero>	Drama
+Comedia de humor negro
+			</Genero>	
+			<F_Estreno>2009-10-02
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Up">
+			<TituloOriginal>Up
+			</TituloOriginal>
+			<TituloEspanyol>Up
+			</TituloEspanyol>
+			<Director>	
+Pete Docter
+Bob Peterson 
+			</Director>
+			<Companyia>Walt Disney Pictures, Pixar Animation Studios
+			</Companyia>
+			<Produccion>	Jonas Rivera
+John Lasseter 
+Andrew Stanton
+			</Produccion>
+			<Genero>Animacion
+			</Genero>	
+			<F_Estreno>2009-05-29
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Up in the Air">
+			<TituloOriginal>Up in the Air
+			</TituloOriginal>
+			<TituloEspanyol>Up in the Air
+			</TituloEspanyol>
+			<Director>Jason Reitman
+			</Director>
+			<Companyia>	
+DreamWorks
+The Montecito Picture Company
+			</Companyia>
+			<Produccion>Daniel Dubiecki 
+Jeffrey Clifford 
+Ivan Reitman 
+Jason Reitman
+			</Produccion>
+			<Genero>	Comedia, drama y pelicula basada en una obra literaria
+			</Genero>	
+			<F_Estreno>2009-12-06
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+	</anyo>
+	<anyo anyo="2008" >
+		<Pelicula nombre="Slumdog Millionaire">
+			<TituloOriginal>Slumdog Millionaire
+
+			</TituloOriginal>
+			<TituloEspanyol>¿Quien quiere ser millonario?
+			</TituloEspanyol>
+			<Director>Danny Boyle
+			</Director>
+			<Companyia>Fox Searchlight
+Warner Bros.
+			</Companyia>
+			<Produccion>Christian Colson
+			</Produccion>
+			<Genero>Drama / Romance
+			</Genero>	
+			<F_Estreno>2008-11-16
+			</F_Estreno>	
+			<Ganadora>Si
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="The Curious Case of Benjamin Button">
+			<TituloOriginal>The Curious Case of Benjamin Button
+			</TituloOriginal>
+			<TituloEspanyol>El curioso caso de Benjamin Button
+			</TituloEspanyol>
+			<Director>David Fincher
+			</Director>
+			<Companyia>Paramount Pictures
+Warner Bros.
+The Kennedy/Marshall Company
+			</Companyia>
+			<Produccion>Kathleen Kennedy
+Frank Marshall
+Cean Chaffin
+			</Produccion>
+			<Genero>Romance, fantasia, drama y pelicula basada en una obra literaria
+			</Genero>	
+			<F_Estreno>2008-12-28
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Frost/Nixon">
+			<TituloOriginal>Frost/Nixon
+			</TituloOriginal>
+			<TituloEspanyol>El desafio - Frost contra Nixon 
+			</TituloEspanyol>
+			<Director>Ron Howard
+			</Director>
+			<Companyia>Imagine Entertainment
+Working Title Films
+StudioCanal
+Relativity Media
+			</Companyia>
+			<Produccion>Ron Howard
+Brian Grazer
+Tim Bevan
+Eric Fellner
+			</Produccion>
+			<Genero>Drama
+			</Genero>	
+			<F_Estreno>2008-12-07
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="Milk">
+			<TituloOriginal>Milk
+			</TituloOriginal>
+			<TituloEspanyol>Mi nombre es Harvey Milk
+			</TituloEspanyol>
+			<Director>Gus Van Sant
+			</Director>
+			<Companyia>Focus Features
+			</Companyia>
+			<Produccion>Bruce Cohen
+Dan Jinks
+			</Produccion>
+			<Genero>Drama
+Biografica
+			</Genero>	
+			<F_Estreno>2008-11-30
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+		<Pelicula nombre="The Reader">
+			<TituloOriginal>The Reader
+			</TituloOriginal>
+			<TituloEspanyol>El lector
+			</TituloEspanyol>
+			<Director>Stephen Daldry
+			</Director>
+			<Companyia>Mirage Enterprises 
+Neunte Babelsberg Film
+			</Companyia>
+			<Produccion>Anthony Minghella
+Sydney Pollack
+Donna Gigliotti
+Redmond Morris
+			</Produccion>
+			<Genero>Drama
+			</Genero>	
+			<F_Estreno>2008-12-14
+			</F_Estreno>	
+			<Ganadora>No
+			</Ganadora>		
+		</Pelicula>
+	</anyo>
+</mejorpelicula>
